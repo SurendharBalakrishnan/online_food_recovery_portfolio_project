@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (large files - keep in cloud/LFS)
+# *.csv
+# Uncomment above if datasets are too large for repo
+
+# Output Files
+outputs/
+*.pdf
+*.pbix
+*.mp4
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.secret
+config/credentials.*
+
+# Temp
+tmp/
+temp/
+*.tmp
