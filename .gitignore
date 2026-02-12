@@ -32,7 +32,7 @@ Thumbs.db
 desktop.ini
 
 # Data (large files - keep in cloud/LFS)
-# *.csv
+*.csv
 # Uncomment above if datasets are too large for repo
 
 # Output Files
